@@ -4,6 +4,7 @@ Using [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow)
 I downloaded a selection of books from [Project Gutenberg](https://www.gutenberg.org/) as training input. I cleaned up the text as much as I could and tried to keep the formatting consistent, the combined text for input ended up being 8.1MB.
  
 This is a lovely command for combining them:
+
 `ls *.txt | xargs -L 1 cat >> input.txt`
  
 Ingredients:
