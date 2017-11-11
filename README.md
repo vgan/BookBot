@@ -39,3 +39,5 @@ OK, now to write the 50k word book for NanoGenMo:
 `python sample.py -n 300000 >book.txt`
 
 Here is the [book](https://github.com/vgan/BookBot/blob/master/book.txt)!
+
+Also in bot form: [@bookbot@botsin.space](https://botsin.space/@bookbot) 
